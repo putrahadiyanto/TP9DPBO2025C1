@@ -99,4 +99,5 @@ Program ini dirancang menggunakan arsitektur **Model-View-Presenter (MVP)** untu
 ![alt text](dokumentasi/edit.png)
 
 ### Screenrecord
+https://github.com/user-attachments/assets/e68d30a5-0435-41aa-a68f-fc693742acf7
 
